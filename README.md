@@ -8,6 +8,21 @@
 - **Associate: Kolawole Oparinde**
 - **Team Members: Sitesh Gupta, Neha Sunil,Sujay Kumar, Jayasree Chakraborty**
 
+-----------
+## Table of content
+- Introduction
+- Week-by-Week Progress
+  - Week 1: Problem Understanding & Dataset Exploration
+  - Week 2: ETL & Master Table Creation
+  - Week 3: Wireframe & Dashboard Draft
+  - Week 4: Final Dashboard & Insights
+    - Page 1: Application Insights Overview
+    - Page 2: Regional & Cohort Analysis
+- My Contributions
+- Key Business Impact
+- Learnings
+- Acknowledgments
+-------------------
 ##  Introduction
 This repository captures my 4-week journey at Excelerate as part of Team 22, alongside my teammate Neha Sunil.
 We explored real datasets, cleaned and transformed raw tables, and built an interactive Looker Studio Dashboard that turns data into decision-making power.
