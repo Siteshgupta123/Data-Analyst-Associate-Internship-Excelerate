@@ -4,7 +4,7 @@
 
 # Data Analyst Associate Internship-Excelerate
 **Internship Journey at Excelerate**
-- **Team-22 | August 2025**
+- **Team-22 | July 2025**
 - **Associate: Kolawole Oparinde**
 - **Team Members: Sitesh Gupta, Neha Sunil,Sujay Kumar, Jayasree Chakraborty**
 
